@@ -11,7 +11,7 @@ This project is a desktop application built with PySide6 for managing contact da
 
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/yusuftotic/pyside6-tableview-contact-manager.git
    cd pyside6-tableview-contact-manager
    ```
 2. Install the required packages:
